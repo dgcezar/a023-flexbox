@@ -1,9 +1,14 @@
-*{
+* {
   margin: 0;
   padding: 0;
 }
 
-main{
+main {
   padding-top: 20px;
+  padding-left: 20px;
   display: flex;
+  justify-content: center;
+  flex-direction: row;
+  gap: 15px;
+  flex-wrap: wrap;
 }
